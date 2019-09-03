@@ -12,8 +12,8 @@
 		51B2B5FB231E4A8800D616E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B2B5F9231E4A8800D616E7 /* Main.storyboard */; };
 		51B2B5FD231E4A8900D616E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51B2B5FC231E4A8900D616E7 /* Assets.xcassets */; };
 		51B2B609231E4ABD00D616E7 /* ZUIKitTool.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 51B2B608231E4ABD00D616E7 /* ZUIKitTool.podspec */; };
-		51B2B60B231E4AEB00D616E7 /* testView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B2B60A231E4AEB00D616E7 /* testView.swift */; };
 		51B2B60D231E4B0200D616E7 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B2B60C231E4B0200D616E7 /* Launch Screen.storyboard */; };
+		51B2B60F231E4C2C00D616E7 /* UIButtonLarger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B2B60E231E4C2C00D616E7 /* UIButtonLarger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,8 +24,8 @@
 		51B2B5FC231E4A8900D616E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51B2B601231E4A8900D616E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		51B2B608231E4ABD00D616E7 /* ZUIKitTool.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ZUIKitTool.podspec; sourceTree = "<group>"; };
-		51B2B60A231E4AEB00D616E7 /* testView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testView.swift; sourceTree = "<group>"; };
 		51B2B60C231E4B0200D616E7 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		51B2B60E231E4C2C00D616E7 /* UIButtonLarger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonLarger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,7 +73,7 @@
 		51B2B607231E4AA700D616E7 /* ZUIKitTool */ = {
 			isa = PBXGroup;
 			children = (
-				51B2B60A231E4AEB00D616E7 /* testView.swift */,
+				51B2B60E231E4C2C00D616E7 /* UIButtonLarger.swift */,
 			);
 			path = ZUIKitTool;
 			sourceTree = "<group>";
@@ -150,9 +150,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51B2B60F231E4C2C00D616E7 /* UIButtonLarger.swift in Sources */,
 				51B2B5F8231E4A8800D616E7 /* ViewController.swift in Sources */,
 				51B2B5F6231E4A8800D616E7 /* AppDelegate.swift in Sources */,
-				51B2B60B231E4AEB00D616E7 /* testView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
