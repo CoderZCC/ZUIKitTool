@@ -2,7 +2,7 @@
 //  testView.swift
 //  ZUIKitToolpro
 //
-//  Created by 北京摩学教育科技有限公司 on 2019/9/3.
+//  Created by ZCC on 2019/9/3.
 //  Copyright © 2019 zcc. All rights reserved.
 //
 
